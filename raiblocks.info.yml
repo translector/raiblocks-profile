@@ -4,11 +4,33 @@ description: 'Install with commonly used features pre-configured.'
 version: VERSION
 core: 8.x
 dependencies:
-  - node
-  - history
+  - automated_cron
   - block
   - breakpoint
   - ckeditor
+  - dblog
+  - field
+  - filter
+  - dynamic_page_cache
+  - page_cache
+  - node
+  - path
+  - rdf
+  - system
+  - editor
+  - toolbar
+  - update
+  - user
+  - views
+  - views_ui
+  - admin_toolbar
+  - admin_toolbar_tools
+  - honeypot
+  - google_analytics
+  - webform
+  - webform_layout_container
+  - webform_ui
+  - extlink
 
 themes:
   - bartik
